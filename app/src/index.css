@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.page-content{
+  margin-top: 160px;
+}
+
+.list-item_add{
+  color: red;
+}
+
+.sidebar {
+  position: absolute;
+  left: 0;
+  float: left;
+  margin-left: 15px;
+  width: 30%;
+  height: 100%;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  widows: 100%;
+  opacity: 0.5;
+  padding-left: 15px;
+}
